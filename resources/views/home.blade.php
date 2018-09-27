@@ -1,5 +1,37 @@
 @extends('app') 
 @section('content')
-    @include('sections.flock')
-<h1 class="red">Hello</h1>
+<!--Header start -->
+    @include('sections.header')
+<!--Header end -->
+    @include('sections.slider')
+    @include('sections.countdown')
+    @include('sections.event-info')
+    @include('sections.about')
+
+
+<!--Speakers -->
+{{--
+    @include('sections.speakers') --}}
+
+<!--Price -->
+{{--
+    @include('sections.price') --}}
+
+<!--Calender -->
+{{--
+    @include('sections.calender') --}}
+
+<!--Sponsors -->
+{{--
+    @include('sections.sponsors') --}}
+
+<!--Tickets -->
+{{--
+    @include('sections.tickets') --}}
+
+
+<!--footer start -->
+    @include('sections.footer')
+    @include('sections.copywrite')
+<!--footer end -->
 @endsection
