@@ -33,5 +33,7 @@
 <!--footer start -->
     @include('sections.footer')
     @include('sections.copywrite')
+    @include('sections.subscribePopup')
+
 <!--footer end -->
 @endsection

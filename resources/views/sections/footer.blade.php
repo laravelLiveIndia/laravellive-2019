@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row justify-content-center">
 
-            <div class="col-md-4 col-12">
+            <div class="col-md-12 col-12">
                 <div class="footer_box">
                     <div class="footer_header">
                         <div class="footer_logo">
@@ -32,51 +32,9 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4">
-                <div class="footer_box">
-                    <div class="footer_header">
-                        <h4 class="footer_title">
-                            instagram
-                        </h4>
-                    </div>
-                    <div class="footer_box_body">
-                        <ul class="instagram_list">
-                            <li>
-                                <a href="#">
-                                    <img src="{{ asset('img/cleander/c1.png') }}" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="{{ asset('img/cleander/c2.png') }}" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="{{ asset('img/cleander/c3.png') }}" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="{{ asset('img/cleander/c3.png') }}" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="{{ asset('img/cleander/c2.png') }}" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="{{ asset('img/cleander/c1.png') }}" alt="instagram">
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col-12 col-md-4">
+            {{--
+            <div class="col-12 col-md-6">
                 <div class="footer_box">
                     <div class="footer_header">
                         <h4 class="footer_title">
@@ -85,12 +43,11 @@
                     </div>
                     <div class="footer_box_body">
                         <div class="newsletter_form">
-                            <input type="email" class="form-control" placeholder="E-Mail here">
-                            <button class="btn btn-rounded btn-block btn-primary">SUBSCRIBE</button>
+                            <button class="btn btn-rounded btn-block btn-primary" id="subscribe-btn">SUBSCRIBE</button>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 </footer>

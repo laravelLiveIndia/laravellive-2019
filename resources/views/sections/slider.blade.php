@@ -1,7 +1,7 @@
 <!--cover section slider -->
 <section id="home" class="home-cover">
     <div class="cover_slider owl-carousel owl-theme">
-        <div class="cover_item" style="background: url('img/bg/slider.png');">
+        <div class="cover_item" style="background: url('img/bg/mumbai.svg');">
             <div class="slider_content">
                 <div class="slider-content-inner">
                     <div class="container">

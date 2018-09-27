@@ -24,7 +24,7 @@
                             location
                         </h5>
                         <p>
-                            INDIA
+                            Mumbai, INDIA
                         </p>
                     </div>
                 </div>
