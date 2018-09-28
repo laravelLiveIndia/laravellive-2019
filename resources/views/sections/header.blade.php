@@ -1,7 +1,7 @@
 <!--header start here -->
-<header class="header navbar fixed-top navbar-expand-md">
+<header class="header navbar fixed-top navbar-expand-md bg-dark" style="margin-top:0;">
     <div class="container">
-        <a class="navbar-brand logo" href="#">
+        <a class="navbar-brand logo mt25" href="#">
             {{-- <img src="{{ asset('img/logo.png') }}" alt="Evento"/> --}}
             <h3 class="text-white">Laravel<span style="color:#E74432">Live.</span></h3>
         </a>

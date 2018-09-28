@@ -6,11 +6,11 @@
                 <div class="slider-content-inner">
                     <div class="container">
                         <div class="slider-content-center">
-                            <h2 class="cover-title">
+                            <h2 class="cover-title" style="color:black">
                                 Prepare yourself for the
                             </h2>
                             <strong class="cover-xl-text">LaravelLive</strong>
-                            <p class="cover-date">
+                            <p class="cover-date" style="color:black">
                                 A PHP Laravel Conference 2019, INDIA
                             </p>
                             <a href="#cfp-countdown" class=" btn btn-primary btn-rounded">
