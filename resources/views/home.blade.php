@@ -10,32 +10,32 @@
     <!--ABOUT END-->
 
     <!--SPEAKERS-->
-    @include('section.speaker')
+    {{-- @include('section.speaker') --}}
     <!--SPEAKERS END-->
 
     <!--SCHEDULE-->
-    @include('section.schedule')
+    {{-- @include('section.schedule') --}}
     <!--SCHEDULE END-->
 
     <!--SPONSORED-->
-    @include('section.sponsors')
+    {{-- @include('section.sponsors') --}}
     <!--SPONSORED END-->
 
     <!--REGISTRATION-->
-    @include('section.registration')
+    {{-- @include('section.registration') --}}
     <!--REGISTRATION END-->
 
     <!--News-->
-    @include('section.news')
+    {{-- @include('section.news') --}}
     <!--News END-->
 
     <!--VIDEO-->
-    @include('section.videos')
+    {{-- @include('section.videos') --}}
     <!--//.VIDEO END-->
 
     <!--FOOTER-->
     @include('section.footer')
     <!--FOOTER END-->
 
-     @include('section.subscribePopup')
+    @include('section.subscribePopup')
 @endsection
