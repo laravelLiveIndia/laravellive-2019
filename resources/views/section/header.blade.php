@@ -81,7 +81,7 @@
                                             </ul>
                                         </li>
                                         <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#csi-about">About</a></li>
-                                        <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#csi-schedule">Schedule</a></li>
+                                        {{-- <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#csi-schedule">Schedule</a></li>
                                         <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#csi-speakers">Speakers</a></li>
                                         <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#csi-sponsors">Sponsores</a></li>
                                         <li class="dropdown">
@@ -94,7 +94,7 @@
                                                 <li><a href="http://httpcoder.com/demo/html/eventpro/view/news-single.html">News
                                                         Single</a></li>
                                             </ul>
-                                        </li>
+                                        </li> --}}
                                         <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/contact.html">Contact</a></li>
                                         <li><a class="csi-scroll csi-btn" href="http://httpcoder.com/demo/html/eventpro/view/registration.html">Ticket</a></li>
                                     </ul>
