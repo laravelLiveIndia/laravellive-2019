@@ -1,39 +1,41 @@
 @extends('app') 
 @section('content')
-<!--Header start -->
-    @include('sections.header')
-<!--Header end -->
-    @include('sections.slider')
-    @include('sections.countdown')
-    @include('sections.event-info')
-    @include('sections.about')
+    @include('section.header')
+    <!--Banner-->
+    @include('section.banner')
+    <!--Banner END-->
 
+    <!--ABOUT-->
+    @include('section.about')
+    <!--ABOUT END-->
 
-<!--Speakers -->
-{{--
-    @include('sections.speakers') --}}
+    <!--SPEAKERS-->
+    @include('section.speaker')
+    <!--SPEAKERS END-->
 
-<!--Price -->
-{{--
-    @include('sections.price') --}}
+    <!--SCHEDULE-->
+    @include('section.schedule')
+    <!--SCHEDULE END-->
 
-<!--Calender -->
-{{--
-    @include('sections.calender') --}}
+    <!--SPONSORED-->
+    @include('section.sponsors')
+    <!--SPONSORED END-->
 
-<!--Sponsors -->
-{{--
-    @include('sections.sponsors') --}}
+    <!--REGISTRATION-->
+    @include('section.registration')
+    <!--REGISTRATION END-->
 
-<!--Tickets -->
-{{--
-    @include('sections.tickets') --}}
+    <!--News-->
+    @include('section.news')
+    <!--News END-->
 
+    <!--VIDEO-->
+    @include('section.videos')
+    <!--//.VIDEO END-->
 
-<!--footer start -->
-    @include('sections.footer')
-    @include('sections.copywrite')
-    @include('sections.subscribePopup')
+    <!--FOOTER-->
+    @include('section.footer')
+    <!--FOOTER END-->
 
-<!--footer end -->
+     @include('section.subscribePopup')
 @endsection
