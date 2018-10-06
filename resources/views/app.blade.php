@@ -40,11 +40,11 @@
     <!-- facebook open graph ends from here -->
 
     <!--  FAVICON AND TOUCH ICONS -->
-    <link rel="shortcut icon" type="image/x-icon" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
     <!-- this icon shows in browser toolbar -->
-    <link rel="icon" type="image/x-icon" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
     <!-- this icon shows in browser toolbar -->
-    <link rel="apple-touch-icon" sizes="57x57" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/apple-icon-57x57.png">
+    {{-- <link rel="apple-touch-icon" sizes="57x57" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/apple-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="76x76" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/apple-icon-76x76.png">
@@ -55,8 +55,8 @@
     <link rel="apple-touch-icon" sizes="180x180" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/apple-icon-180x180.png">
     <link rel="icon" type="image/png" sizes="192x192" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/favicon-96x96.png"> --}}
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('favicon.png') }}">
     <link rel="manifest" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/manifest.json">
 
     <!-- BOOTSTRAP CSS -->
