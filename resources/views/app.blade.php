@@ -15,6 +15,7 @@
     <meta name="description" content="Event, Conference &amp; Meetup HTML Template">
     <meta name="keywords" content="Event, Conference, Meetup, HTML5">
     <meta name="author" content="httpcoder.com">
+    <meta name="theme-color" content="#603cba">
 
     <!-- twitter card starts from here, if you don't need remove this section -->
     <meta name="twitter:card" content="summary">
@@ -57,7 +58,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/favicon-96x96.png"> --}}
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('favicon.png') }}">
-    <link rel="manifest" href="http://httpcoder.com/demo/html/eventpro/view/assets/img/favicon/manifest.json">
+    <link rel="manifest" href="/manifest.json">
 
     <!-- BOOTSTRAP CSS -->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" media="all">
