@@ -1191,12 +1191,12 @@ textarea.form-control {
 }
 
 .csi-banner {
-    background: url(/images/mumbai-banner.jpg) top center no-repeat;
+    background: url(/images/bombay--2092174-11.jpg) top center no-repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    position: relative
+    position: relative;
 }
 
 .csi-banner .csi-inner {
@@ -1204,7 +1204,7 @@ textarea.form-control {
 }
 
 .csi-banner2 {
-    background: url(/images/mumbai-banner.jpg) top center no-repeat;
+    background: url(/images/bombay--2092174-11.jpg) top center no-repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -1212,7 +1212,7 @@ textarea.form-control {
 }
 
 .csi-banner4 {
-    background: url(/images/mumbai-banner.jpg) top center no-repeat;
+    background: url(/images/bombay--2092174-11.jpg) top center no-repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -1236,7 +1236,8 @@ textarea.form-control {
 .csi-banner-content .csi-subtitle {
     font-weight: 300;
     margin: 0;
-    color: #16aced
+    margin-top: -60px;
+    color: #E74432;
 }
 
 .csi-banner-content .csi-title {
@@ -1244,7 +1245,7 @@ textarea.form-control {
     font-weight: 900;
     margin: 0 0 4.2rem;
     text-transform: uppercase;
-    color: #fff
+    color: #fff;
 }
 
 .csi-banner-content .date {
@@ -1253,7 +1254,7 @@ textarea.form-control {
     line-height: 6.300000000000001rem;
     line-height: 2.6rem;
     color: #fff;
-    font-weight: 300;
+    font-weight: 500;
     opacity: .8
 }
 
@@ -1317,7 +1318,8 @@ textarea.form-control {
     .csi-banner-content .csi-subtitle,
     .csi-banner-content .csi-title {
         font-size: 4.2rem;
-        line-height: 5rem
+        line-height: 5rem;
+        margin-top: 0px;
     }
 
     .csi-banner-content .date {
@@ -2869,19 +2871,19 @@ textarea.form-control {
 }
 
 .csi-countdown-area #csi-countdown .csi-days {
-    color: #fff200
+    color: #fff;
 }
 
 .csi-countdown-area #csi-countdown .csi-hr {
-    color: #ff8a00
+    color: #fff
 }
 
 .csi-countdown-area #csi-countdown .csi-min {
-    color: #00b9ff
+    color: #fff
 }
 
 .csi-countdown-area #csi-countdown .csi-sec {
-    color: #8dc63f
+    color: #fff
 }
 
 .csi-countdown-area-left .csi-countdown-area-inner {
@@ -2964,7 +2966,7 @@ textarea.form-control {
 }
 
 .csi-countdowns3 {
-    background: url(/images/mumbai-banner.jpg) top center no-repeat fixed;
+    background: url(/images/bombay--2092174-11.jpg) top center no-repeat fixed;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -3334,7 +3336,7 @@ textarea.form-control {
 .page-template .csi-banner-inner,
 .single .csi-banner-inner,
 .single-post .csi-banner-inner {
-    background: url(/images/mumbai-banner.jpg) top center no-repeat;
+    background: url(/images/bombay--2092174-11.jpg) top center no-repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
