@@ -12,31 +12,31 @@
 
     <!-- SITE TITLE -->
     <title>{{ config('app.name') }}</title>
-    <meta name="description" content="Event, Conference &amp; Meetup HTML Template">
-    <meta name="keywords" content="Event, Conference, Meetup, HTML5">
-    <meta name="author" content="httpcoder.com">
-    <meta name="theme-color" content="#603cba">
+    <meta name="description" content="Laravel Event, Laravel Conference, laravel php conference, laravel India conference">
+    <meta name="keywords" content="Laravel Event, Laravel Conference, laravel php conference, laravel India conference">
+    <meta name="author" content="team laravellive">
+    <meta name="theme-color" content="#EE4E38">
 
     <!-- twitter card starts from here, if you don't need remove this section -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@laravellivein">
-    <meta name="twitter:creator" content="@laravellivein">
+    <meta name="twitter:site" content="@laravelliveIN">
+    <meta name="twitter:creator" content="@laravelliveIN">
     <meta name="twitter:url" content="http://laravellive.in">
-    <meta name="twitter:title" content="Your home page title, max 140 char"> <!-- maximum 140 char -->
-    <meta name="twitter:description" content="Your site description, maximum 140 char "> <!-- maximum 140 char -->
-    <meta name="twitter:image" content="assets/img/twittercardimg/twittercard-280-150.jpg">
+    <meta name="twitter:title" content="LaravelLive India Conference 2019"> <!-- maximum 140 char -->
+    <meta name="twitter:description" content="Laravel Event, Laravel Conference, laravel php conference, laravel India conference"> <!-- maximum 140 char -->
+    <meta name="twitter:image" content="images/bombay--2092174-11.jpg">
     <!-- when you post this page url in twitter , this image will be shown -->
     <!-- twitter card ends from here -->
 
     <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
-    <meta property="og:title" content="Your home page title">
+    <meta property="og:title" content="LaravelLive India Conference 2019">
     <meta property="og:url" content="http://laravellive.in">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Laravel Live">
     <!--meta property="fb:admins" content="" /-->
     <!-- use this if you have  -->
     <meta property="og:type" content="website">
-    <meta property="og:image" content="assets/img/opengraph/fbphoto.jpg">
+    <meta property="og:image" content="images/bombay--2092174-11.jpg">
     <!-- when you post this page url in facebook , this image will be shown -->
     <!-- facebook open graph ends from here -->
 
