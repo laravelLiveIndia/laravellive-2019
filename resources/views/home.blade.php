@@ -1,4 +1,4 @@
-@extends('app') 
+@extends('app')
 @section('content')
     @include('section.header')
     <!--Banner-->
@@ -37,5 +37,5 @@
     @include('section.footer')
     <!--FOOTER END-->
 
-    @include('section.subscribePopup')
+    {{-- @include('section.subscribePopup') --}}
 @endsection
