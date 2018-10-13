@@ -46,9 +46,11 @@
                                         </p>
                                     </div> --}}
                                 </div>
-                                <div class="csi-copyright">
-                                    <p class="text">© 2018-19 LaravelLive</p>
-                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="csi-copyright" style="text-align: center">
+                                <p class="text">© 2018-19 LaravelLive</p>
                             </div>
                         </div>
                     </div>

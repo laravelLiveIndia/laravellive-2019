@@ -1,5 +1,5 @@
 <section>
-    <div class="csi-banner csi-banner2">
+    <div class="csi-banner csi-banner2" style="margin-top: -1px">
         <div class="csi-banner-style">
             <div class="csi-inner">
                 <div class="container">

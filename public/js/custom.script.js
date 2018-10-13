@@ -234,8 +234,8 @@
                     /*+ '<span class="csi-weecks">%w <i> weeks </i></span> '*/
                     + '<span class="csi-days">%D <i> Days </i></span> '
                     + '<span class="csi-hr">%H <i> Hour </i></span> '
-                    + '<span class="csi-min">%M <i> Minu </i></span> '
-                    + '<span class="csi-sec">%S <i> Seco </i></span>'
+                    + '<span class="csi-min">%M <i> Min </i></span> '
+                    + '<span class="csi-sec">%S <i> Sec </i></span>'
                 ));
             });
         }
