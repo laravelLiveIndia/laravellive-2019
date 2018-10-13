@@ -279,7 +279,7 @@ blockquote:before {
 }
 
 .csi-social li:hover a {
-    background: #16aced;
+    background: #f55247;
     -webkit-box-shadow: 0 2px 10px rgba(52, 61, 71, .2);
     -moz-box-shadow: 0 2px 10px rgba(52, 61, 71, .2);
     box-shadow: 0 2px 10px rgba(52, 61, 71, .2)
@@ -371,21 +371,21 @@ textarea.form-control {
 }
 
 .csi-btn {
-    background: #b71c1c;
+    background: grey;
     padding: 1.3rem 3rem;
     font-weight: 400;
     overflow: hidden;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     transition-duration: .3s;
-    border: 2px solid #b71c1c;
+    border: 2px solid grey;
     letter-spacing: .08rem
 }
 
 .csi-btn-brand,
 .csi-btn:hover {
-    background: #16aced;
-    border: 2px solid #16aced;
+    background: #f55247;
+    border: 2px solid #f55247;
     color: #fff
 }
 
@@ -3276,7 +3276,7 @@ textarea.form-control {
 }
 
 .csi-social li:hover {
-    color: #b71c1c
+    color: white;
 }
 
 .csi-social li:hover a {
