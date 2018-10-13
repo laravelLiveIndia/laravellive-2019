@@ -10,15 +10,15 @@
                     </div>
                     <div class="col-sm-12 col-md-7">
                         <div class="csi-about-content-area">
-                            <div class="csi-heading">
+                            <div class="csi-heading text-left">
                                 <h2 class="heading">A PHP Laravel Conference</h2>
                                 {{-- <h3 class="subheading">Why User Interface Conference ?</h3> --}}
                             </div>
                             <div class="csi-about-content">
-                                <p class="text">
+                                <p class="text text-justify">
                                     LaravelLive India is a full-day event being curated with an expected audience of about 200 in New Delhi. Our goal is to bring together bright minds to give talks that are idea-focused, and on a wide range of subjects in PHP Laravel, to foster learning, inspiration and provoke conversations that matter.
                                 </p>
-                                <p class="text">
+                                <p class="text text-justify" style="padding-top: 2rem;">
                                     Our Aim is to build larger Open Source community around PHP laravel. We will be guiding the new talent around how to learn and contribute to the open source technologies along with the top notch developers of the Ecosystem.
                                 </p>
                             </div>
