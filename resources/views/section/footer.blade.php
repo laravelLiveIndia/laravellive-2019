@@ -7,7 +7,7 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-4">
                                 {{-- <div class="csi-footer-logo"> --}}
-                                    <h2 style="color:white">Laravel<span style="color:#E74432">Live</span></h3>
+                                    <h2 style="color:white">Laravel<span style="color:#f55247">Live</span></h3>
                                 {{-- </div> --}}
                             </div>
                             <div class="col-xs-12 col-sm-8">
@@ -26,7 +26,7 @@
                                             </form>
                                         </div>
 
-                                        <!--End mc_embed_signup-->                                         
+                                        <!--End mc_embed_signup-->
                                     {{-- <div class="csi-footer-single">
                                         <h3 class="footer-title">Venue Location </h3>
                                         <h4 class="date">
