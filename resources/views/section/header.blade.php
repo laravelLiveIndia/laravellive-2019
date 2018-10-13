@@ -10,18 +10,19 @@
                                 <div class="navbar-header">
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="sr-only">Toggle navigation</span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar" style="background-color:#E74432"></span>
+                                        <span class="icon-bar" style="background-color:#E74432"></span>
+                                        <span class="icon-bar" style="background-color:#E74432"></span>
                                     </button>
-                                    <div class="csi-logo" style="margin-left:-25px !important;margin-top:20px">
-                                        <a href="http://httpcoder.com/demo/html/eventpro/view/index.html">
+                                    <div class="csi-logo" style="margin-top:20px">
+                                        <a href="/">
                                             {{-- <img src="{{ asset('images/logo.png') }}" alt="Logo"> --}}
-                                            <h2 style="color:white">Laravel<span style="color:#E74432">Live.</span></h3>
+                                            <h2 style="color:white">Laravel<span style="color:#E74432">Live</span></h3>
                                         </a>
                                     </div>
                                 </div>
-                                <div class="collapse navbar-collapse">
+
+                                {{-- <div class="collapse navbar-collapse">
                                     <ul class="nav navbar-nav csi-nav">
                                         <li class="dropdown">
                                             <a href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"
@@ -98,7 +99,7 @@
                                         <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/contact.html">Contact</a></li>
                                         <li><a class="csi-scroll csi-btn" href="http://httpcoder.com/demo/html/eventpro/view/registration.html">Ticket</a></li>
                                     </ul>
-                                </div>
+                                </div> --}}
                                 <!--/.nav-collapse -->
                             </div>
                         </nav>

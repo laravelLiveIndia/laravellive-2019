@@ -1,0 +1,16 @@
+{
+  "short_name": "LaravelLive",
+  "name": "Laravel Live India 2018",
+  "background_color": "#ffffff",
+  "theme_color": "#f05340",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
