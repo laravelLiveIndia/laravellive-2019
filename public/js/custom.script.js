@@ -98,7 +98,7 @@
          ========================================================================== */
         if($('#csi-typed-string').length){
             $('#csi-typed-string').typed({
-                strings: ["LaravelLive 1", "LaravelLive 2","LaravelLive 3"],
+                strings: ["LaravelLive India 2019", "A  PHP Laravel Conference","Engage with top devs across globe"],
                 // typing speed
                 typeSpeed: 60,
                 // time before typing starts

@@ -7,11 +7,11 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-4">
                                 {{-- <div class="csi-footer-logo"> --}}
-                                    <h2 style="color:white">Laravel<span style="color:#E74432">Live.</span></h3>
+                                    <h2 style="color:white">Laravel<span style="color:#E74432">Live</span></h3>
                                 {{-- </div> --}}
                             </div>
                             <div class="col-xs-12 col-sm-8">
-                                <div class="csi-footer-single-area">
+                                <div class="csi-footer-single-area" style="text-align: end">
                                     {{-- <div class="csi-footer-single">
                                         <h3 class="footer-title">Venue Location </h3>
                                         <h4 class="date">
@@ -28,7 +28,7 @@
                                     <div class="csi-footer-single">
                                         <h3 class="footer-title">Social Connection</h3>
                                         <p class="text">
-                                            You should connect social area <br> for Any update
+                                            Connect with us
                                         </p>
                                         <ul class="list-inline csi-social">
                                             <li><a href="https://www.facebook.com/laravellive/"><i
@@ -37,14 +37,14 @@
                                                         class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                         </ul>
                                     </div>
-                                    <div class="csi-footer-single">
+                                    {{-- <div class="csi-footer-single">
                                         <h3 class="footer-title">About</h3>
                                         <p class="text">
                                             Join the most productive Conference ever on Laravel in India. Not only your knowledge will increased but also make your social network bigger.
                                             <br>
                                             Get to know more advanced topics and enhance your Laravel skills to have more productivty.
                                         </p>
-                                    </div>
+                                    </div> --}}
                                 </div>
                                 <div class="csi-copyright">
                                     <p class="text">© 2018-19 LaravelLive</p>
