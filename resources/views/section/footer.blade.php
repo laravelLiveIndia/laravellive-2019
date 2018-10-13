@@ -7,12 +7,11 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-4">
                                 {{-- <div class="csi-footer-logo"> --}}
-
                                     <h2 style="color:white">Laravel<span style="color:#f55247">Live</span></h3>
                                 {{-- </div> --}}
                             </div>
-                            <div class="col-xs-12 col-sm-8">
-                                <div class="csi-footer-single-area" style="text-align: end">
+                            <div class="col-xs-12 col-sm-4">
+                                <div class="csi-footer-single">
                                         <!-- Begin Mailchimp Signup Form -->
                                         <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
                                                                              
@@ -65,6 +64,18 @@
                                             Get to know more advanced topics and enhance your Laravel skills to have more productivty.
                                         </p>
                                     </div> --}}
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 text-center">
+                                <div class="csi-footer-single">
+                                    <h3 class="footer-title">Social Connection</h3>
+
+                                    <ul class="list-inline csi-social">
+                                        <li style="padding-right: 10px;"><a href="https://www.facebook.com/laravellive/"><i
+                                                    class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://twitter.com/LaravelLiveIN"><i
+                                                    class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
