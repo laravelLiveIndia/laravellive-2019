@@ -12,6 +12,21 @@
                             </div>
                             <div class="col-xs-12 col-sm-8">
                                 <div class="csi-footer-single-area" style="text-align: end">
+                                        <!-- Begin Mailchimp Signup Form -->
+                                        <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+                                        <div id="mc_embed_signup">
+                                            <form action="https://xyz.us15.list-manage.com/subscribe/post?u=a80aa20a6604dcef64860c596&amp;id=245bde01ba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                                <div id="mc_embed_signup_scroll">
+                                                    <label for="mce-EMAIL"><h3 class="text" style="color: white; margin-top: 0px;">Subscribe to get updates</h3></label>
+                                                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+                                                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a80aa20a6604dcef64860c596_245bde01ba" tabindex="-1" value=""></div>
+                                                    <br><br>
+                                                    <div class="clear"><input type="submit" value="Subscribe"  style="background-color: #94969e; color: black; font-weight: 700;" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                                                </div>
+                                            </form>
+                                        </div>
+
+                                        <!--End mc_embed_signup-->                                         
                                     {{-- <div class="csi-footer-single">
                                         <h3 class="footer-title">Venue Location </h3>
                                         <h4 class="date">
