@@ -42,9 +42,9 @@
                                     </div> --}}
                                     <div class="csi-footer-single">
                                         <h3 class="footer-title">Social Connection</h3>
-                                        <p class="text">
+                                        {{-- <p class="text">
                                             Connect with us
-                                        </p>
+                                        </p> --}}
                                         <ul class="list-inline csi-social">
                                             <li><a href="https://www.facebook.com/laravellive/"><i
                                                         class="fa fa-facebook" aria-hidden="true"></i></a></li>
