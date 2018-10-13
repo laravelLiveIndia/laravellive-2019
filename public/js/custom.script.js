@@ -257,55 +257,55 @@
             return regex.test(email);
         }
 
-        $('form.csi-subscribe-form').on('submit', function (evnt) {
-            evnt.preventDefault();
-            //  console.log(csi_path);
-            // console.log('subs submit');
-            var $subform = $(this);
-            var emailInput = $('form.csi-subscribe-form').find('input#subscribe');
-            if (isEmail(emailInput.val())) {
-                // console.log('ok');
-                $.ajax({
-                    url: csi_path + '/assets/php/subscribe.php',
-                    type: 'post',
-                    data: {'email': emailInput.val().toLowerCase()},
-                    beforeSubmit: function (argument) {
-                        // body...
-                    },
-                    success: function (ajaxResponse) {
+        // $('form.csi-subscribe-form').on('submit', function (evnt) {
+        //     evnt.preventDefault();
+        //     //  console.log(csi_path);
+        //     // console.log('subs submit');
+        //     var $subform = $(this);
+        //     var emailInput = $('form.csi-subscribe-form').find('input#subscribe');
+        //     if (isEmail(emailInput.val())) {
+        //         // console.log('ok');
+        //         $.ajax({
+        //             url: csi_path + '/assets/php/subscribe.php',
+        //             type: 'post',
+        //             data: {'email': emailInput.val().toLowerCase()},
+        //             beforeSubmit: function (argument) {
+        //                 // body...
+        //             },
+        //             success: function (ajaxResponse) {
 
-                        var ajaxResponse = $.parseJSON(ajaxResponse);
-                        // console.log(ajaxResponse);
+        //                 var ajaxResponse = $.parseJSON(ajaxResponse);
+        //                 // console.log(ajaxResponse);
 
-                        $('#csi-subalert').addClass("alert alert-success csi-sub-alert").html(ajaxResponse.message);
+        //                 $('#csi-subalert').addClass("alert alert-success csi-sub-alert").html(ajaxResponse.message);
 
-                        try {
-                            var ajaxResponse = $.parseJSON(ajaxResponse);
-                            if (!ajaxResponse.error) {
-                                emailInput.css('color', '#0f0');
-                            } else {
-                                emailInput.removeAttr('style'); //css('color', '#f00');
-                                throw ajaxResponse.message;
-                            }
-                            //alert( ajaxResponse.message );
-                        } catch (e) {
-                            // e.message;
-                            // alert(e.message );
+        //                 try {
+        //                     var ajaxResponse = $.parseJSON(ajaxResponse);
+        //                     if (!ajaxResponse.error) {
+        //                         emailInput.css('color', '#0f0');
+        //                     } else {
+        //                         emailInput.removeAttr('style'); //css('color', '#f00');
+        //                         throw ajaxResponse.message;
+        //                     }
+        //                     //alert( ajaxResponse.message );
+        //                 } catch (e) {
+        //                     // e.message;
+        //                     // alert(e.message );
 
-                        }
-                    },
-                    error: function (argument) {
-                        var ajaxResponse = $.parseJSON(ajaxResponse);
-                        $('#csi-subalert').addClass("alert alert-danger csi-sub-alert").html(ajaxResponse.message);
-                        // body...
-                    }
-                });
-                $subform[0].reset();
-            } else {
-                emailInput.css('color', '#f00');
-                return false;
-            }
-        });
+        //                 }
+        //             },
+        //             error: function (argument) {
+        //                 var ajaxResponse = $.parseJSON(ajaxResponse);
+        //                 $('#csi-subalert').addClass("alert alert-danger csi-sub-alert").html(ajaxResponse.message);
+        //                 // body...
+        //             }
+        //         });
+        //         $subform[0].reset();
+        //     } else {
+        //         emailInput.css('color', '#f00');
+        //         return false;
+        //     }
+        // });
 
         $('form.subscribe-form input#subscribe').on('keyup', function (evnt) {
             var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;

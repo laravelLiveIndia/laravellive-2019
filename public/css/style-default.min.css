@@ -371,7 +371,7 @@ textarea.form-control {
 }
 
 .csi-btn {
-    background: #b21e8e;
+    background: grey;
     padding: 1.3rem 3rem;
     font-weight: 400;
     overflow: hidden;
@@ -384,7 +384,7 @@ textarea.form-control {
 
 .csi-btn-brand,
 .csi-btn:hover {
-    background: #16aced;
+    background: #f55247;
     border: 2px solid #16aced;
     color: #fff
 }
