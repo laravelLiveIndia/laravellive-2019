@@ -14,6 +14,9 @@
                                         <span class="icon-bar" style="background-color:#f55247"></span>
                                         <span class="icon-bar" style="background-color:#f55247"></span>
                                     </button> --}}
+                                    <button type="button" class="navbar-toggle" >
+                                        <li><a class="csi-scroll csi-btn" style="background-color: #f55247" href=" https://www.papercall.io/laravellive-india">Call For Papers</a></li>
+                                    </button>
                                     <div class="csi-logo" style="margin-top:20px">
                                         <a href="/">
                                             {{-- <img src="{{ asset('images/logo.png') }}" alt="Logo"> --}}
@@ -22,9 +25,9 @@
                                     </div>
                                 </div>
 
-                                {{-- <div class="collapse navbar-collapse">
+                                <div class="collapse navbar-collapse">
                                     <ul class="nav navbar-nav csi-nav">
-                                        <li class="dropdown">
+                                        {{-- <li class="dropdown">
                                             <a href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"
                                                 class="dropdown-toggle active" data-toggle="dropdown" role="button"
                                                 aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
@@ -96,10 +99,10 @@
                                                         Single</a></li>
                                             </ul>
                                         </li>
-                                        <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/contact.html">Contact</a></li>
-                                        <li><a class="csi-scroll csi-btn" href="http://httpcoder.com/demo/html/eventpro/view/registration.html">Ticket</a></li>
+                                        <li><a class="csi-scroll" href="http://httpcoder.com/demo/html/eventpro/view/contact.html">Contact</a></li> --}}
+                                        <li><a class="csi-scroll csi-btn" style="background-color: #f55247" href=" https://www.papercall.io/laravellive-india">Call For Papers</a></li>
                                     </ul>
-                                </div> --}}
+                                </div>
                                 <!--/.nav-collapse -->
                             </div>
                         </nav>

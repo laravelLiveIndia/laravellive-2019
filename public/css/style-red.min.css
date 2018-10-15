@@ -4068,3 +4068,8 @@ textarea.form-control {
         width: 70%
     }
 }
+
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent!important;
+}
