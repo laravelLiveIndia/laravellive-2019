@@ -24,7 +24,7 @@
     <meta name="twitter:url" content="http://laravellive.in">
     <meta name="twitter:title" content="LaravelLive India Conference 2019"> <!-- maximum 140 char -->
     <meta name="twitter:description" content="Laravel Event, Laravel Conference, laravel php conference, laravel India conference"> <!-- maximum 140 char -->
-    <meta name="twitter:image" content="images/bombay--2092174-11.jpg">
+    <meta name="twitter:image" content="http://laravellive.in/images/bombay--2092174-11.jpg">
     <!-- when you post this page url in twitter , this image will be shown -->
     <!-- twitter card ends from here -->
 
@@ -36,7 +36,7 @@
     <!--meta property="fb:admins" content="" /-->
     <!-- use this if you have  -->
     <meta property="og:type" content="website">
-    <meta property="og:image" content="images/bombay--2092174-11.jpg">
+    <meta property="og:image" content="http://laravellive.in/images/bombay--2092174-11.jpg">
     <!-- when you post this page url in facebook , this image will be shown -->
     <!-- facebook open graph ends from here -->
 
