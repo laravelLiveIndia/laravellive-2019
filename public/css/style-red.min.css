@@ -4073,3 +4073,28 @@ textarea.form-control {
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: transparent!important;
 }
+
+.flock-community {
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    margin-bottom: 40px !important;
+    margin-right: 20px !important;
+}
+
+.pulse-flock {
+    margin: 5px;
+    display: inline-block;
+    border-radius: 50%;
+    background: #ffffff;
+    cursor: pointer;
+    box-shadow: #0abe51;
+    animation: pulse-flock 2s infinite;
+    vertical-align: middle;
+}
+
+.flock-button {
+    background-color: #0abe51;
+    border-color: #0abe51;
+    color: #fff;
+}
