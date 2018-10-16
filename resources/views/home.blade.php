@@ -1,5 +1,11 @@
 @extends('app')
 @section('content')
+
+    <div class="flock-community fixed">
+        <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank" class="btn flock-button btn-round">Join our LaravelLive India community</a>
+        <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank"><img src="{{ asset('images/flock.png') }}" class="pulse-flock" height="38" style="height: 75px;"></a>
+    </div>
+
     @include('section.header')
     <!--Banner-->
     @include('section.banner')
