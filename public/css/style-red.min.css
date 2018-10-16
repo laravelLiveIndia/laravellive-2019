@@ -4074,27 +4074,48 @@ textarea.form-control {
     background-color: transparent!important;
 }
 
-.flock-community {
-    bottom: 0;
-    right: 0;
-    position: fixed;
-    margin-bottom: 40px !important;
-    margin-right: 20px !important;
+@media only screen and (min-width: 768px) {
+    .flock-community {
+        display: block;
+        bottom: 0;
+        right: 0;
+        position: fixed;
+        margin-bottom: 40px !important;
+        margin-right: 20px !important;
+    }
+
+    .flock-button {
+        background-color: #0abe51;
+        border-color: #0abe51;
+        color: #fff;
+    }
+
+    .pulse-flock {
+        margin: 5px;
+        display: inline-block;
+        border-radius: 50%;
+        background: #ffffff;
+        cursor: pointer;
+        box-shadow: #0abe51;
+        animation: pulse-flock 2s infinite;
+        vertical-align: middle;
+    }
 }
 
-.pulse-flock {
-    margin: 5px;
-    display: inline-block;
-    border-radius: 50%;
-    background: #ffffff;
-    cursor: pointer;
-    box-shadow: #0abe51;
-    animation: pulse-flock 2s infinite;
-    vertical-align: middle;
-}
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+    .flock-button {
+        background-color: #0abe51;
+        border-color: #0abe51;
+        color: #fff;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        opacity: 1;
+        z-index: 1;
+        border-radius: 0px;
+    }
 
-.flock-button {
-    background-color: #0abe51;
-    border-color: #0abe51;
-    color: #fff;
+    .pulse-flock {
+        display: none;
+    }
 }
