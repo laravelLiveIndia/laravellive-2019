@@ -4080,8 +4080,9 @@ textarea.form-control {
         bottom: 0;
         right: 0;
         position: fixed;
-        margin-bottom: 40px !important;
+        margin-bottom: 60px !important;
         margin-right: 20px !important;
+        z-index: 9999;
     }
 
     .flock-button {
