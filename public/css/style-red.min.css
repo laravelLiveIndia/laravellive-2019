@@ -279,7 +279,7 @@ blockquote:before {
 }
 
 .csi-social li:hover a {
-    background: #f55247;
+    background: #b71c1c;
     -webkit-box-shadow: 0 2px 10px rgba(52, 61, 71, .2);
     -moz-box-shadow: 0 2px 10px rgba(52, 61, 71, .2);
     box-shadow: 0 2px 10px rgba(52, 61, 71, .2)
@@ -384,8 +384,8 @@ textarea.form-control {
 
 .csi-btn-brand,
 .csi-btn:hover {
-    background: #f55247;
-    border: 2px solid #f55247;
+    background: #b71c1c;
+    border: 2px solid #b71c1c;
     color: #fff
 }
 
