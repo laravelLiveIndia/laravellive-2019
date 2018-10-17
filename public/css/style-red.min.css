@@ -4120,3 +4120,15 @@ textarea.form-control {
         display: none;
     }
 }
+
+@media only screen and (min-width: 768px) {
+    #mobile_li {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #desktop_li {
+        display: none;
+    }
+}
