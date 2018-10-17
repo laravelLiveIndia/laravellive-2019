@@ -68,6 +68,18 @@
     <script type="text/javascript" charset="UTF-8" src="{{ asset('js/util.js') }}"></script>
     <script type="text/javascript" charset="UTF-8" src="{{ asset('js/stats.js') }}"></script> --}}
     {{-- <script type="text/javascript" charset="UTF-8" src="{{ asset('js/AuthenticationService.Authenticate') }}"></script> --}}
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127639101-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-127639101-1');
+    </script>
+
+
 </head>
 
 <body class="home" data-gr-c-s-loaded="true" cz-shortcut-listen="true">
