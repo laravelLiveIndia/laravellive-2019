@@ -2891,12 +2891,12 @@ textarea.form-control {
 }
 
 .csi-countdown-area-left .csi-countdown-area-inner #csi-countdown span {
-    background: -moz-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: -webkit-gradient(linear, bottom top, bottom top, color-stop(0, #1a1f3f), color-stop(100%, #b21e8e));
-    background: -webkit-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: -o-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: -ms-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: linear-gradient(to top, #1a1f3f 0, #b21e8e 100%);
+    background: -moz-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: -webkit-gradient(linear, bottom top, bottom top, color-stop(0, #1a1f3f), color-stop(100%, #f55247));
+    background: -webkit-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: -o-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: -ms-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: linear-gradient(to top, #1a1f3f 0, #f55247 100%);
     padding: 1rem 2rem;
     border-radius: 6px
 }
@@ -2904,12 +2904,12 @@ textarea.form-control {
 .csi-countdown-area2 {
     position: relative;
     z-index: 3;
-    background: -moz-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: -webkit-gradient(linear, bottom top, bottom top, color-stop(0, #1a1f3f), color-stop(100%, #b21e8e));
-    background: -webkit-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: -o-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: -ms-linear-gradient(top, #1a1f3f 0, #b21e8e 100%);
-    background: linear-gradient(to top, #1a1f3f 0, #b21e8e 100%);
+    background: -moz-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: -webkit-gradient(linear, bottom top, bottom top, color-stop(0, #1a1f3f), color-stop(100%, #f55247));
+    background: -webkit-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: -o-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: -ms-linear-gradient(top, #1a1f3f 0, #f55247 100%);
+    background: linear-gradient(to top, #1a1f3f 0, #f55247 100%);
     -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, .25);
     -moz-box-shadow: 0 4px 10px rgba(0, 0, 0, .25);
     box-shadow: 0 4px 10px rgba(0, 0, 0, .25);
