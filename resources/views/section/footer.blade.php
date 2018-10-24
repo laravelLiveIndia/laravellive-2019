@@ -34,10 +34,12 @@
                                     <h3 class="footer-title">Social Connection</h3>
 
                                     <ul class="list-inline csi-social">
-                                        <li style="padding-right: 10px;"><a href="https://www.facebook.com/laravellive/"><i
+                                        <li><a href="https://www.facebook.com/laravellive/"><i
                                                     class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                         <li><a href="https://twitter.com/LaravelLiveIN"><i
                                                     class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://www.youtube.com/channel/UC6TxYSHI7g9FMJ7VlHk72Yg"><i
+                                                    class="fa fa-youtube" aria-hidden="true"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
