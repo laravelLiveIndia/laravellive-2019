@@ -31,6 +31,7 @@
                                             <a href="#">Community <span class="caret"></span></a>
                                             <ul style="margin-left: -30px;">
                                                 <li><a href="https://in.explara.com/e/laravelive-india-pune-meetup" target="_blank">Pune Meetup</a></li>
+                                                <li><a href="https://in.explara.com/e/laravelive-india-ahmedabad-meetup" target="_blank">Ahmedabad Meetup</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="csi-scroll" href="https://www.papercall.io/laravellive-india">Call For Papers</a></li>
@@ -42,6 +43,7 @@
                                                 aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
                                             <ul class="dropdown-menu">
                                                 <li><a href="https://in.explara.com/e/laravelive-india-pune-meetup" target="_blank">Pune Meetup</a></li>
+                                                <li><a href="https://in.explara.com/e/laravelive-india-ahmedabad-meetup" target="_blank">Ahmedabad Meetup</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="csi-scroll csi-btn" style="background-color: #f55247" href=" https://www.papercall.io/laravellive-india">Call For Papers</a></li>
