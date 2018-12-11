@@ -30,8 +30,10 @@
                                         <li class="dropdown">
                                             <a href="#">Community <span class="caret"></span></a>
                                             <ul style="margin-left: -30px;">
-                                                <li><a href="https://in.explara.com/e/laravelive-india-pune-meetup" target="_blank">Pune Meetup</a></li>
-                                                <li><a href="https://in.explara.com/e/laravelive-india-ahmedabad-meetup" target="_blank">Ahmedabad Meetup</a></li>
+                                                <li><a href="https://in.explara.com/e/laravelive-india-delhi-meetup" target="_blank">Gurugram (Delhi) Meetup</a></li>
+                                                <li><a href="https://in.explara.com/e/laravelive-india-mumbai-meetup" target="_blank">Mumbai Meetup</a></li>
+                                                <li><a href="https://in.explara.com/e/laravelive-india-ahmedabad-meetup" target="_blank"><s>Ahmedabad Meetup</s></a></li>
+                                                <li><a href="https://in.explara.com/e/laravelive-india-pune-meetup" target="_blank"><s>Pune Meetup</s></a></li>
                                             </ul>
                                         </li>
                                         <li><a class="csi-scroll" href="https://www.papercall.io/laravellive-india">Call For Papers</a></li>
