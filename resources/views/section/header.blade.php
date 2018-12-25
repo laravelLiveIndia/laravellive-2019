@@ -30,10 +30,7 @@
                                         <li class="dropdown">
                                             <a href="#">Community <span class="caret"></span></a>
                                             <ul style="margin-left: -30px;">
-                                                <li><a href="https://in.explara.com/e/laravelive-india-delhi-meetup" target="_blank">Gurugram (Delhi) Meetup</a></li>
-                                                <li><a href="https://in.explara.com/e/laravelive-india-mumbai-meetup" target="_blank">Mumbai Meetup</a></li>
-                                                <li><a href="https://in.explara.com/e/laravelive-india-ahmedabad-meetup" target="_blank"><s>Ahmedabad Meetup</s></a></li>
-                                                <li><a href="https://in.explara.com/e/laravelive-india-pune-meetup" target="_blank"><s>Pune Meetup</s></a></li>
+                                                <li><a href="https://allevents.in/ahmedabad/laravel-ahmedabad-meetup-december-2018-chapter/80002057491478" target="_blank">Ahmedabad Meetup</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="csi-scroll" href="https://www.papercall.io/laravellive-india">Call For Papers</a></li>
@@ -44,10 +41,7 @@
                                                 class="dropdown-toggle" data-toggle="dropdown" role="button"
                                                 aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="https://in.explara.com/e/laravelive-india-delhi-meetup" target="_blank">Gurugram (Delhi) Meetup</a></li>
-                                                <li><a href="https://in.explara.com/e/laravelive-india-mumbai-meetup" target="_blank">Mumbai Meetup</a></li>
-                                                <li><a href="https://in.explara.com/e/laravelive-india-ahmedabad-meetup" target="_blank"><s>Ahmedabad Meetup</s></a></li>
-                                                <li><a href="https://in.explara.com/e/laravelive-india-pune-meetup" target="_blank"><s>Pune Meetup</s></a></li>
+                                                <li><a href="https://allevents.in/ahmedabad/laravel-ahmedabad-meetup-december-2018-chapter/80002057491478" target="_blank">Ahmedabad Meetup</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="csi-scroll csi-btn" style="background-color: #f55247" href=" https://www.papercall.io/laravellive-india">Call For Papers</a></li>
