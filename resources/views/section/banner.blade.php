@@ -6,13 +6,13 @@
                     <div class="csi-banner-content">
                         {{-- <h3 class="csi-subtitle">Conference On</h3> --}}
                         <h6 class="csi-title"><span id="csi-typed-string">Laravel</span></h6>
-                        <p class="date">Call for Papers Ends in </p>
+                        <p class="date">Countdown for conference</p>
                     </div>
 
                     <div class="csi-countdown-area csi-countdown-area-left">
                         <div class="csi-countdown-area-inner">
                             <!-- Date Format :"Y/m/d" || For Example: 1017/10/5  -->
-                                <div id="csi-countdown" data-date="2018/12/31 23:59">
+                                <div id="csi-countdown" data-date="2019/03/03 09:00">
                                     <span class="csi-days">3<i> Days</i></span>
                                     <span class="csi-hr">00 <i> Hour </i></span>
                                     <span class="csi-min">28<i> Mins </i></span>
