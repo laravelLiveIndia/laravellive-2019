@@ -14,9 +14,7 @@
                                         <span class="icon-bar" style="background-color:#f55247"></span>
                                         <span class="icon-bar" style="background-color:#f55247"></span>
                                     </button>
-
-
-{{--                                <button type="button" class="navbar-toggle" >
+{{--                                     <button type="button" class="navbar-toggle" >
                                         <li><a class="csi-scroll csi-btn" style="background-color: #f55247" href=" https://www.papercall.io/laravellive-india">Call For Papers</a></li>
                                     </button> --}}
                                     <div class="csi-logo" style="margin-top:20px">
@@ -25,7 +23,6 @@
                                             <h2 style="color:white">Laravel<span style="color:#f55247">Live</span></h3>
                                         </a>
                                     </div>
-                                    
                                 </div>
 
                                 {{--<div class="collapse navbar-collapse">--}}
@@ -52,12 +49,9 @@
                                 {{--</div>--}}
                                 <!--/.nav-collapse -->
                             </div>
-
-                            <button id=”open-popup” class="csi-btn pull-right" style="background-color: #f55247"onclick="showMailingPopUp()">Join Early Bird list</button>
                         </nav>
                     </div>
                 </div>
-                
                 <!--//.ROW-->
             </div>
             <!-- //.CONTAINER -->
