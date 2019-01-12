@@ -7,20 +7,8 @@
                     <div class="col-xs-12">
                         <nav class="navbar navbar-default csi-navbar">
                             <div class="csicontainer">
-                                <div class="col-xs-6">
-                                    <div class="csi-logo" style="margin-top:20px">
-                                        <a href="/">
-                                            {{-- <img src="{{ asset('images/logo.png') }}" alt="Logo"> --}}
-                                            <h2 style="color:white">Laravel<span style="color:#f55247">Live</span></h3>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-xs-6" style="margin-top:20px;">
-                                    <button id=”open-popup” class="csi-btn pull-right" style="background-color: #f55247;border: 2px solid #f55247;"onclick="showMailingPopUp()">Join Early Bird list</button>
-                                </div>
-
                                 <div class="navbar-header">
-                                    <!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="sr-only">Toggle navigation</span>
                                         <span class="icon-bar" style="background-color:#f55247"></span>
                                         <span class="icon-bar" style="background-color:#f55247"></span>
@@ -36,8 +24,6 @@
                                         </a>
                                     </div>
                                 </div>
-
-                                
 
                                 {{--<div class="collapse navbar-collapse">--}}
                                     {{--<ul class="nav navbar-nav csi-nav" id="mobile_li">--}}
@@ -62,7 +48,6 @@
                                     {{--</ul>--}}
                                 {{--</div>--}}
                                 <!--/.nav-collapse -->
-
                             </div>
                         </nav>
                     </div>
