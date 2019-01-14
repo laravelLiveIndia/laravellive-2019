@@ -119,6 +119,15 @@
     <!-- CUSTOM SCRIPT  -->
     <script src="{{ asset('js/custom.script.js') }}"></script>
 
+    <script type="text/javascript" src="{{ asset('js/embed.js') }}" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+
+    <script>
+        function showMailingPopUp() {
+            require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"a80aa20a6604dcef64860c596","lid":"245bde01ba"}) })
+            document.cookie = "MCPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
+        };
+    </script>
+    
     @stack('script')
 </body>
 
