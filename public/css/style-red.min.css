@@ -1283,7 +1283,7 @@ textarea.form-control {
 
     .csi-banner-content .csi-subtitle,
     .csi-banner-content .csi-title {
-        font-size: 8rem;
+        font-size: 5rem;
         line-height: 10rem
     }
 
@@ -2842,14 +2842,12 @@ textarea.form-control {
     font-weight: 900;
     display: inline-block;
     margin-bottom: 0;
-    margin-right: 6.8rem;
+    margin-right: 0rem;
     letter-spacing: .16rem;
     position: relative;
-    bottom: -15px
-}
-
-.csi-countdown-area #csi-countdown span:last-child {
-    margin-right: 0
+    bottom: -15px;
+    float:left;
+    min-width: 113.52px;
 }
 
 .csi-countdown-area #csi-countdown i {
@@ -2868,6 +2866,17 @@ textarea.form-control {
     position: absolute;
     bottom: 32px;
     right: -35px
+}
+.csi-countdown-area #csi-countdown u {
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+    letter-spacing: 4px;
+    transform: rotate(270deg);
+    float: left;
+    top: 65px;
 }
 
 .csi-countdown-area #csi-countdown .csi-days {
@@ -3043,10 +3052,11 @@ textarea.form-control {
         font-weight: 900;
         display: inline-block;
         margin-bottom: 0;
-        margin-right: 4.2rem;
+        margin-right: 0px;
         letter-spacing: .16rem;
         position: relative;
-        bottom: -15px
+        bottom: -15px;
+        min-width: 71.52px;
     }
 
     .csi-countdown-area #csi-countdown span:last-child {
@@ -3059,6 +3069,9 @@ textarea.form-control {
         line-height: 2.4000000000000004rem;
         bottom: 16px;
         right: -26px
+    }
+    .csi-countdown-area #csi-countdown u {
+        top: 35px;
     }
 
     .csi-countdown-area .csi-countdown-area-inner {
@@ -3085,7 +3098,7 @@ textarea.form-control {
 
     .csi-banner-content .csi-subtitle,
     .csi-banner-content .csi-title {
-        font-size: 4.2rem;
+        font-size: 3.2rem;
         line-height: 5rem
     }
 
@@ -3123,14 +3136,20 @@ textarea.form-control {
     }
 
     .csi-countdown-area-left {
-        right: 1rem
+        left: 1rem
     }
 
     .csi-countdown-area-left #csi-countdown span {
         font-size: 2.2rem;
         line-height: 3.3000000000000003rem;
-        padding: 1rem .5rem;
-        margin-right: 2rem
+        padding: 1rem 0px !important;
+        margin-right: 0;
+        min-width: 43.52px;
+    }
+
+    .csi-countdown-area #csi-countdown u {
+        letter-spacing: 0px;
+        top: 20px;
     }
 }
 

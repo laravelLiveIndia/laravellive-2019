@@ -37,6 +37,7 @@
                                     </div>
                                 </div>
 
+
                                 
 
                                 {{--<div class="collapse navbar-collapse">--}}
@@ -61,9 +62,12 @@
                                         {{--<li><a class="csi-scroll csi-btn" style="background-color: #f55247" href=" https://www.papercall.io/laravellive-india">Call For Papers</a></li>--}}
                                     {{--</ul>--}}
                                 {{--</div>--}}
+
                                 <!--/.nav-collapse -->
 
+
                             </div>
+
                         </nav>
                     </div>
                 </div>

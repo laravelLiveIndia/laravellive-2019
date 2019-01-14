@@ -136,6 +136,8 @@
 
         $( 'a.csi-scroll' ).on( 'click', function(event) {
             var $anchor = $(this);
+            if($anchor == undefined)
+                return false;
             var topTo   = $( $anchor.attr('href') ).offset().top;
 
             if ( window.innerWidth < 768 ) {
@@ -230,13 +232,19 @@
             var dataTime = $('#csi-countdown').data('date'); // Date Format : Y/m/d
 
             $('#csi-countdown').countdown(dataTime, function(event) {
-                var $this = $(this).html(event.strftime(''
-                    /*+ '<span class="csi-weecks">%w <i> weeks </i></span> '*/
-                    + '<span class="csi-days">%D <i> Days </i></span> '
-                    + '<span class="csi-hr">%H <i> Hour </i></span> '
-                    + '<span class="csi-min">%M <i> Min </i></span> '
-                    + '<span class="csi-sec">%S <i> Sec </i></span>'
-                ));
+                var $this = $(this).find(".csi-days span").html(event.strftime('%D'));
+                var $this = $(this).find(".csi-hr span").html(event.strftime('%H'));
+                var $this = $(this).find(".csi-min span").html(event.strftime('%M'));
+                var $this = $(this).find(".csi-sec span").html(event.strftime('%S'));
+                var $this = $(this).find(".csi-days u").html(event.strftime('DAY%!D'));
+                var $this = $(this).find(".csi-hr u").html(event.strftime('HR%!H'));
+                var $this = $(this).find(".csi-min u").html(event.strftime('MIN%!M'));
+                var $this = $(this).find(".csi-sec u").html(event.strftime('SEC%!S'));
+                // var $this = $(this).html(event.strftime(''
+                //     + '<div class="csi-hr"><span>%H </span><u> Hour </u></div>'
+                //     + '<div class="csi-min"><span>%M </span><u> Min </u></div>'
+                //     + '<div class="csi-sec"><span>%S </span><u> Sec </u></div>'
+                // ));
             });
         }
 

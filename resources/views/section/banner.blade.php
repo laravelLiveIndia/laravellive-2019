@@ -13,10 +13,10 @@
                         <div class="csi-countdown-area-inner">
                             <!-- Date Format :"Y/m/d" || For Example: 1017/10/5  -->
                                 <div id="csi-countdown" data-date="2019/03/03 09:00">
-                                    <span class="csi-days">3<i> Days</i></span>
-                                    <span class="csi-hr">00 <i> Hour </i></span>
-                                    <span class="csi-min">28<i> Mins </i></span>
-                                    <span class="csi-sec">30 <i> Sec </i></span>
+                                    <div class="csi-days"><span>00</span><u> Days</u></div>
+                                    <div class="csi-hr"><span>00</span><u> Hour </u></div>
+                                    <div class="csi-min"><span>00</span><u> Mins </u></div>
+                                    <div class="csi-sec"><span>00</span><u> Sec </u></div>
                                 </div>
                             </div>
                         </div>
