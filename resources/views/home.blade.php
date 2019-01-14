@@ -15,10 +15,6 @@
     @include('section.about')
     <!--ABOUT END-->
 
-    <!--SERVICE-->
-    <!-- @include('section.venue') -->
-    <!--SERVICE-->
-
     <!--SPEAKERS-->
     {{-- @include('section.speaker') --}}
     <!--SPEAKERS END-->
