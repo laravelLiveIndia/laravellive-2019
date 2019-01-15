@@ -29,15 +29,15 @@
                                                 class="fa fa-linkedin"></i></a>
                                     </div>
                                     <div class="speaker-info">
-                                        <h3 class="title"><a href="http://httpcoder.com/demo/html/eventpro/view/speaker.html">Jonathon
-                                                Doe</a></h3>
-                                        <h4 class="subtitle">Ceo of LogicHunt</h4>
+                                        <h3 class="title"><a href="http://httpcoder.com/demo/html/eventpro/view/speaker.html">
+                                            Christoph Rumpel</a></h3>
+                                        <h4 class="subtitle">Certified Laravel Artisan</h4>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-6 col-md-4">
+                    {{-- <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="csi-single-speaker">
                             <figure>
                                 <a class="profile-img" href="http://httpcoder.com/demo/html/eventpro/view/speakers.html"><img
@@ -161,13 +161,13 @@
                                 </figcaption>
                             </figure>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
                 <!--//.ROW-->
-                <div class="speakers-btn-area">
+                {{-- <div class="speakers-btn-area">
                     <a class="csi-btn csi-btn-big" href="http://httpcoder.com/demo/html/eventpro/view/speakers.html">View
                         More Speakers</a>
-                </div>
+                </div> --}}
             </div>
             <!-- //.CONTAINER -->
         </div>
