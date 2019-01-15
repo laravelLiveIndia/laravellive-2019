@@ -20,7 +20,7 @@
     <!--venue END-->
 
     <!--SPEAKERS-->
-    {{-- @include('section.speaker') --}}
+    @include('section.speaker') 
     <!--SPEAKERS END-->
 
     <!--SCHEDULE-->
