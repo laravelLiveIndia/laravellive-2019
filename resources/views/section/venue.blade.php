@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-md-12" style="padding:20px">
-    <p style="font-size:20px">If you are coming by metro then nearest metro station is Sakinaka Metro Station. Cabs are available from there to Copper Cabana and it takes around 20 minutes to reach in normal traffic.
+    <p style="font-size:20px">Nearest metro station is Sakinaka Metro Station. It takes around 20 minutes to reach by car in normal traffic.
     </p><br>
     <p style="font-size:20px">
     For Adddress queries you can call to hotel directly - <a href="tel:+9170454 04094">+9170454 04094</a>
