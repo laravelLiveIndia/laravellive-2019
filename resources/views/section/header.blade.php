@@ -15,7 +15,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-xs-6" style="margin-top:20px;">
+                                <div class="col-xs-6" style="margin:10px auto;">
                                     <button id=”open-popup” class="csi-btn pull-right" style="background-color: #f55247;border: 2px solid #f55247;"onclick="showMailingPopUp()">Join Early Bird list</button>
                                 </div>
 
