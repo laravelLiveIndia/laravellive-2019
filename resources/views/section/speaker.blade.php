@@ -37,6 +37,32 @@
                             </figure>
                         </div>
                     </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="csi-single-speaker">
+                            <figure>
+                                <a class="profile-img" href="#/"><img
+                                        src="{{ asset('images/nuno.jpg') }}" alt="Nuno Maduro"></a>
+                                <figcaption>
+                                    <div class="social-group">
+                                        <a class="sp-tw" target="_blank" href="https://twitter.com/enunomaduro"><i
+                                                class="fa fa-twitter"></i></a>
+                                        <a class="sp-fb" target="_blank" href="https://nunomaduro.com//"><i
+                                                class="fa fa-globe"></i></a>
+                                                {{--  <a class="sp-insta" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
+                                                class="fa fa-instagram"></i></a>
+                                        <a class="sp-in" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
+                                                class="fa fa-linkedin"></i></a> --}}
+                                    </div>
+                                    <div class="speaker-info">
+                                        <h3 class="title"><a target="_blank" href="https://nunomaduro.com//">
+                                            Nuno Maduro</a></h3>
+                                        <h4 class="subtitle">Creator of Laravel Zero</h4>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                    
                     {{-- <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="csi-single-speaker">
                             <figure>
