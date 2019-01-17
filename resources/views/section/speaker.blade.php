@@ -31,7 +31,7 @@
                                     <div class="speaker-info">
                                         <h3 class="title"><a target="_blank" href="https://christoph-rumpel.com/">
                                             Christoph Rumpel</a></h3>
-                                        <h4 class="subtitle">Certified Laravel Artisan</h4>
+                                        <h4 class="subtitle">Author of Laravel Core Adventures</h4>
                                     </div>
                                 </figcaption>
                             </figure>
