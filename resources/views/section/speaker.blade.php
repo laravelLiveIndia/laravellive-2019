@@ -48,10 +48,6 @@
                                                 class="fa fa-twitter"></i></a>
                                         <a class="sp-fb" target="_blank" href="https://nunomaduro.com//"><i
                                                 class="fa fa-globe"></i></a>
-                                                {{--  <a class="sp-insta" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
-                                                class="fa fa-instagram"></i></a>
-                                        <a class="sp-in" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
-                                                class="fa fa-linkedin"></i></a> --}}
                                     </div>
                                     <div class="speaker-info">
                                         <h3 class="title"><a target="_blank" href="https://nunomaduro.com//">
@@ -62,33 +58,28 @@
                             </figure>
                         </div>
                     </div>
-                    
-                    {{-- <div class="col-xs-12 col-sm-6 col-md-4">
+
+                    <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="csi-single-speaker">
                             <figure>
-                                <a class="profile-img" href="http://httpcoder.com/demo/html/eventpro/view/speakers.html"><img
-                                        src="{{ asset('images/speaker2.jpg') }}" alt="speaker"></a>
+                                <a class="profile-img" href="#/"><img
+                                        src="{{ asset('https://pbs.twimg.com/profile_images/994995720938602496/u2v1JgwN_400x400.jpg') }}" alt="speaker"></a>
                                 <figcaption>
                                     <div class="social-group">
-                                        <a class="sp-tw" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
+                                        <a class="sp-tw" target="_blank" href="https://twitter.com/ajitbohra"><i
                                                 class="fa fa-twitter"></i></a>
-                                        <a class="sp-fb" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
-                                                class="fa fa-facebook"></i></a>
-                                        <a class="sp-insta" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
-                                                class="fa fa-instagram"></i></a>
-                                        <a class="sp-in" href="http://httpcoder.com/demo/html/eventpro/view/home-typed.html#"><i
-                                                class="fa fa-linkedin"></i></a>
+                                        <a class="sp-fb" target="_blank" href="https://ajitbohra.com/about/"><i
+                                                class="fa fa-globe"></i></a>
                                     </div>
                                     <div class="speaker-info">
-                                        <h3 class="title"><a href="http://httpcoder.com/demo/html/eventpro/view/speaker.html">Jonathon
-                                                Doe</a></h3>
-                                        <h4 class="subtitle">Ceo of LogicHunt</h4>
+                                        <h3 class="title"><a href="https://ajitbohra.com/about/">Ajit Bohra</a></h3>
+                                        <h4 class="subtitle">Founder of Lubus</h4>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-6 col-md-4">
+                {{--<div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="csi-single-speaker">
                             <figure>
                                 <a class="profile-img" href="http://httpcoder.com/demo/html/eventpro/view/speakers.html"><img
