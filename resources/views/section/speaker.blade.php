@@ -79,7 +79,30 @@
                             </figure>
                         </div>
                     </div>
+
                     <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="csi-single-speaker">
+                            <figure>
+                                <a class="profile-img" href="https://about.me/mdsbzalam"><img
+                                        src="{{ asset('https://pbs.twimg.com/profile_images/1039175849520447490/D-WmSA6__400x400.jpg') }}" alt="speaker"></a>
+                                <figcaption>
+                                    <div class="social-group">
+                                        <div class="social-group">
+                                        <a class="sp-tw" target="_blank" href="https://twitter.com/mdsbzalam"><i
+                                                class="fa fa-twitter"></i></a>
+                                        <a class="sp-fb" target="_blank" href="https://about.me/mdsbzalam"><i
+                                                class="fa fa-globe"></i></a>
+                                    </div>
+                                    </div>
+                                    <div class="speaker-info">
+                                        <h3 class="title"><a href="https://about.me/mdsbzalam">Md Shahbaz Alam</a></h3>
+                                        <h4 class="subtitle">Full Stack Developer</h4>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                    {{-- <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="csi-single-speaker">
                             <figure>
                                 <a class="profile-img" href="https://murze.be/me"><img
@@ -100,7 +123,7 @@
                                 </figcaption>
                             </figure>
                         </div>
-                    </div>
+                    </div> --}}
                     {{--<div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="csi-single-speaker">
                             <figure>
