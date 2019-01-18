@@ -63,7 +63,7 @@
                         <div class="csi-single-speaker">
                             <figure>
                                 <a class="profile-img" href="#/"><img
-                                        src="{{ asset('https://pbs.twimg.com/profile_images/994995720938602496/u2v1JgwN_400x400.jpg') }}" alt="speaker"></a>
+                                        src="{{ asset('images/ajit.jpg') }}" alt="speaker"></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <a class="sp-tw" target="_blank" href="https://twitter.com/ajitbohra"><i
@@ -84,7 +84,7 @@
                         <div class="csi-single-speaker">
                             <figure>
                                 <a class="profile-img" href="https://about.me/mdsbzalam"><img
-                                        src="{{ asset('https://pbs.twimg.com/profile_images/1039175849520447490/D-WmSA6__400x400.jpg') }}" alt="speaker"></a>
+                                        src="{{ asset('images/shahbaz.jpg') }}" alt="speaker"></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <div class="social-group">
