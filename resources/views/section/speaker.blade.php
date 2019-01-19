@@ -119,7 +119,7 @@
                                     </div>
                                     <div class="speaker-info">
                                         <h3 class="title"><a href="https://www.linkedin.com/in/tapaswenipathak/">Tapasweni Pathak</a></h3>
-                                        <h4 class="subtitle">Senior Software Engineer - Reliance Jio Money</h4>
+                                        <h4 class="subtitle">Senior Software Engineer - Manager - Reliance Jio Financial Innovation</h4>
                                     </div>
                                 </figcaption>
                             </figure>
