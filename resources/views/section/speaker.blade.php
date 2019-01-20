@@ -125,6 +125,29 @@
                             </figure>
                         </div>
                     </div>
+
+                     <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="csi-single-speaker">
+                            <figure>
+                                <a class="profile-img" href="https://www.linkedin.com/in/nishanthkd/"><img
+                                        src="{{ asset('images/nishanth.jpeg') }}" alt="speaker"></a>
+                                <figcaption>
+                                    <div class="social-group">
+                                        <div class="social-group">
+                                        <a class="sp-tw" target="_blank" href="https://twitter.com/nishanth_kd"><i
+                                                class="fa fa-twitter"></i></a>
+                                        <a class="sp-fb" target="_blank" href="https://www.linkedin.com/in/nishanthkd/"><i
+                                                class="fa fa-linkedin"></i></a>
+                                    </div>
+                                    </div>
+                                    <div class="speaker-info">
+                                        <h3 class="title"><a href="https://www.linkedin.com/in/nishanthkd/">Nishanth Kaladharan</a></h3>
+                                        <h4 class="subtitle">Tech Lead at ColoredCow</h4>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
                     {{-- <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="csi-single-speaker">
                             <figure>
