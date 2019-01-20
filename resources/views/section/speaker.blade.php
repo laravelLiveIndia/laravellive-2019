@@ -130,7 +130,7 @@
                         <div class="csi-single-speaker">
                             <figure>
                                 <a class="profile-img" href="https://www.linkedin.com/in/nishanthkd/"><img
-                                        src="{{ asset('images/nishanth.jpeg') }}" alt="speaker"></a>
+                                        src="{{ asset('images/nishanth.jpg') }}" alt="speaker"></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <div class="social-group">
